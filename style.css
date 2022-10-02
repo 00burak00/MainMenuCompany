@@ -1,0 +1,129 @@
+.w-1440{
+width: 1440px;
+}
+.h-1024{
+    height: 1024px;
+}
+.m-a{
+    margin: auto;
+}
+.w-1200{
+    width: 1200px;
+}
+.h-141{
+    height: 141px;
+}
+
+.w-222{
+    width: 222px;
+}
+.h-70
+{
+    height: 70px;
+}
+.mt-65{
+    margin-top: 65px;
+}
+.ml-38{
+    margin-left:  38px;
+}
+.fnt-Inter{
+font-family: 'Inter';
+}
+.fnt-w-700{
+    font-weight: 700;
+}
+.fnt-size-64{
+    font-size: 64px;
+}
+.f-l{
+    float: left;
+}
+.f-r{
+    float: right;
+}
+.w-600{
+    width: 600px;
+}
+.h-150{
+    height: 100px;
+}
+.mt-40{
+    margin-top: 40px;
+}
+.menu ul li{
+    display: inline;
+    margin-left: 65px;
+}
+.mt-84{
+margin-top: 84px;
+}
+.mt-57{
+    margin-top: 73px;
+}
+.fnt-robotocon{
+    font-family: 'Roboto Condensed';
+}
+.font-w-400{
+    font-weight: 400px;
+}
+.font-s-24{
+    font-size: 24px;
+}
+.ml-65{
+    margin-left: 65px;
+}
+.h-552{
+    height: 552px;
+}
+.mt-92{
+    margin-top: 92px;
+}
+.fnt-roboto{
+    font-family: 'Roboto'
+}
+.w-524{
+    width: 524px;
+}
+.h-53{
+    height: 53px;
+}
+.fnt-s-60{
+    font-size: 60px;
+}
+.mt-46{
+    margin-top: 46px;
+}
+.line-h-70{
+    line-height: 70px;
+}
+.p-3{
+    padding-bottom: 3px ;
+}
+.w-535{
+    width: 535px;
+}
+.h-202{
+    height: 202px;
+}
+.buttonn{
+    width: 237px;
+    height: 72px;
+    background-color: #407BFF;
+    border-radius: 24px;
+    color: white;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.ml-11{
+    margin-left: 11px;
+}
+.w-546{
+    width: 546px;
+}
+.h-552{
+    height: 552px;
+}
+.w-654{
+    width: 650px;
+}
